@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Sketch</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <script src="libraries/p5.min.js"></script>
+    <script src="libraries/p5.sound.min.js"></script>
+
+    <style>
+
+      @font-face {
+        font-family: "Cormorant Garamond";
+        src: url(fonts/CormorantGaramond-Regular.ttf);
+        font-style: normal;
+        font-weight: 100;
+      }
+
+      @font-face {
+        font-family: "Cormorant Garamond";
+        src: url(fonts/CormorantGaramond-BoldItalic.ttf);
+        font-style: bold;
+        font-weight: 300;
+      }
+
+      @font-face {
+        font-family: "Cormorant Garamond Bold";
+        src: url(fonts/CormorantGaramond-Bold.ttf);
+        font-style: bold;
+        font-weight: 300;
+      }
+
+      @keyframes clear {
+        0% {
+          opacity: 1;
+        }
+      }
+
+      @keyframes shareAnimate {
+        0% {
+          color: black;
+          opacity: 1;
+        }
+
+        50% {
+          color: black;
+          opacity: 1;
+        }
+
+        100% {
+          color: black;
+          opacity: 0;
+        }
+      }
+
+      @keyframes flipGreen {
+        0% {
+          transform: scaleY(1);
+          color: black;
+          background-color: white;
+        }
+
+        50% {
+          transform: scaleY(0);
+          background-color: white;
+          color: black;
+        }
+        
+        51% {
+          background-color: rgb(0, 48, 135);
+          color: white;
+        }
+
+        100% {
+          transform: scaleY(1);
+          background-color: rgb(0, 48, 135);
+          color: white;
+        }
+      }
+
+      @keyframes flipYellow {
+        0% {
+          transform: scaleY(1);
+          color: black;
+          background-color: white;
+        }
+
+        50% {
+          transform: scaleY(0);
+          background-color: white;
+          color: black;
+        }
+        
+        51% {
+          background-color: rgb(0, 120, 233);
+          color: white;
+        }
+
+        100% {
+          transform: scaleY(1);
+          background-color: rgb(0, 120, 233);
+          color: white;
+        }
+      }
+
+      @keyframes flipGrey {
+        0% {
+          transform: scaleY(1);
+          color: black;
+          background-color: white;
+        }
+
+        50% {
+          transform: scaleY(0);
+          background-color: white;
+          color: black;
+        }
+        
+        51% {
+          background-color: rgb(70, 70, 70);
+          color: white;
+        }
+
+        100% {
+          transform: scaleY(1);
+          background-color: rgb(70, 70, 70);
+          color: white;
+        }
+      }
+
+      h1 {
+        text-align: center;
+        margin: auto;
+        font-family: "Cormorant Garamond";
+        font-weight: 100;
+        font-size: 50pt;
+        color: rgb(0, 48, 135);
+      }
+
+      .dis {
+        text-align: center;
+      }
+
+      #input {
+        text-align: center;
+        margin: auto;
+      }
+
+      #submit {
+        text-align: center;
+        margin: auto;
+      }
+
+      #inputFields {
+        text-align: center;
+        margin: auto;
+      }
+
+      header {
+        color: rgb(0, 48, 135);
+      }
+
+      #winMenu {
+        outline-width: thick;
+        background-color: white;
+        outline-color: rgb(0, 48, 135);
+        outline-style: ridge;
+        outline-width: 5px;
+        padding: 10pt;
+        width: 400px;
+        height: 400px;
+        z-index: 10;
+      }
+
+      #helpMenu {
+        outline-width: thick;
+        background-color: white;
+        outline-color: rgb(0, 48, 135);
+        outline-style: ridge;
+        outline-width: 5px;
+        padding: 10pt;
+        width: 400px;
+        height: 400px;
+        z-index: 10;
+      }
+
+      #answer {
+        font-family: "Cormorant Garamond";
+        font-weight: 300;
+        font-size: 30pt;
+        color: rgb(0, 48, 135);
+        position: relative;
+        top: -40px;
+      }
+
+      #answer2 {
+        font-family: "Cormorant Garamond";
+        font-weight: 300;
+        font-size: 30pt;
+        color: rgb(0, 48, 135);
+        position: relative;
+        top: -170px;
+      }
+
+      #description {
+        font-family: "Cormorant Garamond";
+        font-weight: 100;
+        font-size: 15pt;
+        color: rgb(0, 48, 135);
+        position: relative;
+        top: -65px;
+      }
+
+      #description2 {
+        font-family: "Cormorant Garamond";
+        font-weight: 100;
+        font-size: 15pt;
+        color: rgb(0, 48, 135);
+        position: relative;
+        top: -200px;
+      }
+
+      #timeUntil {
+        font-family: "Cormorant Garamond";
+        font-weight: 300;
+        font-size: 25pt;
+        color: rgb(0, 48, 135);
+        position: absolute;
+        bottom: -25px;
+        letter-spacing: 1px;
+        left: 20px;
+      }
+
+      #nextDukle {
+        font-family: "Cormorant Garamond";
+        font-weight: 100;
+        font-size: 15pt;
+        position: absolute;
+        bottom: 22px;
+        color: rgb(0, 48, 135);
+      }
+
+      #boardContainer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-grow: 1;
+        overflow: hidden;
+        padding-top: 50px;
+      }
+
+      #gameBoard {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        grid-gap: 5px;
+        padding: 10px;
+        box-sizing: border-box;
+      }
+
+      .square {
+        border: 2px solid rgb(58, 58, 60);
+        min-width: 60px;
+        min-height: 60px;
+        font-size: 3rem;
+        font-family: "Cormorant Garamond Bold";
+        font-weight: 300;
+        text-align: center;
+        margin: auto;
+      }
+
+      #keyboardContainer {
+        
+        height: 200px;
+        padding-top: 70px;
+        padding-bottom: 0;
+      }
+
+      .keyboardRow {
+        display: flex;
+        justify-content: center;
+        width: 500px;
+        margin: 0 auto 8px;
+        touch-action: manipulation;
+      }
+
+      .keyboardRow button {
+        font-family: inherit;
+        font-weight: bold;
+        border: 0;
+        padding: 0;
+        height: 58px;
+        cursor: pointer;
+        background-color: rgb(130, 130, 130);
+        color: rgb(215, 218, 220);
+        flex-grow: 1;
+        text-transform: uppercase;
+        margin-right: 6px;
+        border-radius: 4px;
+        user-select: none;
+      }
+
+      .keyboardRow button.wideButton {
+        flex-grow: 1.5;
+      }
+
+      .spacerHalf {
+        flex-grow: 0.5;
+      }
+
+      #share {
+        font-family: "Cormorant Garamond Bold";
+        font-size: 20pt;
+        border: 0;
+        padding: 0;
+        height: 60px;
+        width: 180px;
+        cursor: pointer;
+        background-color: rgb(0, 48, 135);
+        color: white;
+        flex-grow: 1;
+        text-transform: uppercase;
+        margin-right: 6px;
+        border-radius: 4px;
+        user-select: none;
+        position: absolute;
+        right: 6px;
+        bottom: 10px;
+      }
+
+      #kill {
+        font-family: "Cormorant Garamond Bold";
+        position: absolute;
+        bottom: 60px;
+        right: 40px;
+        text-align: center;
+        font-size: 12pt;
+        color: rgb(0, 48, 135);
+        user-select: none;
+      }
+
+      header {
+        border: 2px;
+        border-style:solid;
+      }
+
+      #menuButton1 {
+        right: 80px;
+        top: 20px;
+      }
+      #menuButton2 {
+        right: 30px;
+        top: 20px;
+      }
+      #menuButton3 {
+        right: 10px;
+        top: 10px;
+      }
+      #menuButton4 {
+        right: 10px;
+        top: 10px;
+        z-index: 5;
+      }
+
+      .menuButton {
+        font-family: "Cormorant Garamond Bold";
+        font-size: 20pt;
+        color: rgb(0, 48, 135);
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        background-color: white;
+        border-color: rgb(0, 48, 135);
+        position: absolute;
+      }
+
+      .menuButton:hover {
+        background-color: rgb(230, 230, 230);
+      }
+
+      #helpImage {
+        width: 300px;
+        position: relative;
+        bottom: -280px;
+        left: 50px;
+      }
+
+
+    </style>
+  </head>
+
+  <body>
+    <script src="sketch.js"></script>
+
+    <header>
+      <h1>Dukle</h1>
+      
+    </header>
+
+    <button class="menuButton" id="menuButton1">≡</button>
+    <button class="menuButton" id="menuButton2">?</button>
+
+    <div id="boardContainer">
+      <div id="gameBoard">
+
+      </div>
+    </div>
+
+    <div id="keyboardContainer">
+      <div class="keyboardRow">
+        <button data-key="q" class="key">q</button>
+        <button data-key="w" class="key">w</button>
+        <button data-key="e" class="key">e</button>
+        <button data-key="r" class="key">r</button>
+        <button data-key="t" class="key">t</button>
+        <button data-key="y" class="key">y</button>
+        <button data-key="u" class="key">u</button>
+        <button data-key="i" class="key">i</button>
+        <button data-key="o" class="key">o</button>
+        <button data-key="p" class="key">p</button>
+      </div>
+      <div class="keyboardRow">
+        <div class="spacerHalf"></div>
+        <button data-key="a" class="key">a</button>
+        <button data-key="s" class="key">s</button>
+        <button data-key="d" class="key">d</button>
+        <button data-key="f" class="key">f</button>
+        <button data-key="g" class="key">g</button>
+        <button data-key="h" class="key">h</button>
+        <button data-key="j" class="key">j</button>
+        <button data-key="k" class="key">k</button>
+        <button data-key="l" class="key">l</button>
+        <div class="spacerHalf"></div>
+      </div>
+      <div class="keyboardRow">
+        <button data-key="enter" class="wideButton">Enter</button>
+        <button data-key="z" class="key">z</button>
+        <button data-key="x" class="key">x</button>
+        <button data-key="c" class="key">c</button>
+        <button data-key="v" class="key">v</button>
+        <button data-key="b" class="key">b</button>
+        <button data-key="n" class="key">n</button>
+        <button data-key="m" class="key">m</button>
+        <button data-key="del" class="wideButton">Del</button>
+      </div>
+    </div>
+    
+    <p id="dis0" class="dis">⬜⬜⬜⬜⬜</p>
+    <p id="dis1" class="dis">⬜⬜⬜⬜⬜</p>
+    <p id="dis2" class="dis">⬜⬜⬜⬜⬜</p>
+    <p id="dis3" class="dis">⬜⬜⬜⬜⬜</p>
+    <p id="dis4" class="dis">⬜⬜⬜⬜⬜</p>
+    <p id="dis5" class="dis">⬜⬜⬜⬜⬜</p>
+    
+    <div id="inputFields">
+      <input value="Guess" id="input"></input>
+      <p></p>
+      <button id="submit">Submit Guess</button>
+    </div>
+    
+    <div id="winMenu">
+      <p id="answer">Answer</p>
+      <p id="description">Here is some info about the answer</p>
+      <p id="timeUntil">00:00:00</p>
+      <p id="nextDukle">NEXT DUKLE</p>
+      <button id="share">SHARE Ψ</button>
+      <p id="kill">Copied to Clipboard</p>
+      <button class="menuButton" id="menuButton3">X</button>
+    </div>
+
+    <div id="helpMenu">
+      <img src="assets/help.png" alt="helpMenu" id="helpImage">
+      <button class="menuButton" id="menuButton4">X</button>
+      <p id="answer2">Help</p>
+      <p id="description2">You have 6 tries to guess the Dukle.<br><br>The Dukle will be a word or name related to Duke.<br><br>After each guess the color of the tiles will indicate whether your guess was correct. Grey letters are not in the word, dark blue letters are correct, and light blue letters are in the word but in the wrong place.</p>
+    </div>
+    
+  </body>
+</html>
