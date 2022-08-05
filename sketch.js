@@ -8,7 +8,7 @@ var time = "";
 var date = "";
 var realWords;
 const wordSet = new Set();
-var startDay = 135;
+var startDay = 0;
 var dayOfYear;
 
 //Todays Clue Vars

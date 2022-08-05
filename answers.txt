@@ -1,7 +1,468 @@
-devil:The Duke University Blue Devil originally came from a nickname, “diables bleus” given to chasseurs alpins, an elite mountain warfare infantry unit that gained recognition during World War I for their skills.
-giles:Giles opened in 1928 just shortly after Trinity College became Duke University. The building is named in honor of three sisters (Mary, Theresa, and Persis Giles). The Giles sisters were the first women to earn undergraduate and graduate degrees from Trinity College.
-abele:Abele Quad encompasses the green expanse from the residential dorms and the Brodhead Center to the Chapel and the academic buildings. The lawn hosts various community events such as the annual Old Duke and LDOC concerts, the UNC game bonfire, the Springternational Fair, and various philanthropic functions.
-guide:Duke Tour Guides are a sect of Admissions Ambassadors responsible for leading almost 40,000 visitors annually around our beautiful campus. Your commitment is at least one hour and fifteen minute tour per week, 3 general body meetings per semester, and the occasional large group tour.
-lilly:The building now known as Lilly Library opened in 1927 as the first library built for the fledgling Duke University. For more than four decades, it served as the Woman’s College Library. It became the East Campus Library when the Woman’s College merged with Trinity College in 1972. In 1993 the building was partially renovated and renamed Lilly Library in recognition of a gift from Ruth Lilly. Since then it has served as the primary academic support space for first-year students at Duke.
-gross:Built in 1968 as a chemistry research and teaching building to replace "old chemistry" on the west quad, Gross Hall was converted to other uses in 2014, after completion of French Family Science Center. It currently houses the Social Science Research Institute, Duke Energy Initiative, Rhodes Information Initiative and The Foundry, a space for student teams to fabricate their projects.
-monut:Monuts is a busy bakery and cafe located in Downtown Durham. It began as a donut stand operating off a tricycle near the Durham Farmer's Market in 2011 and has since grown into a bustling counter-service restaurant and bakery with a full menu of breakfast and lunch fare including soups, salads, sandwiches, and of course, donuts. 
+EBall:Pratt's annual attempt to keep engineers from dying alone.
+gross:Gross Hall may not be oldest chemistry building, but it is quite possibly... the... grossest. Do you get it? It's the name of the building. Idk I've only been there once and I got locked in a random hallway.
+Nerds:The label that half of Duke students consider themseles and that the other half fear they are. 
+abele:I don't know if I'm *abele* to make a joke about this one. Tee hee. We all love Abele Quad. The biggest bestest lawn that they replace the grass on every other week.
+Board:Like the backboard. Of a basketball hoop. We love basketball!
+Books:Those things old people keep talking about.
+Annex:If you're artsy fartsy, making a trek out to the Arts Annex would probbaly be worth it for you. 
+Lunch:Lunch is the second most popular class of Duke students, right behind recess.
+Earth:Shout out to all my Earth "Science" majors.
+Sleep:The least important of the three holy pillars of life at Duke- Sleep, Work, and Tenting.
+Forno:Il Forno, the least favorite of the Il Forno and Sazon children. We still love her, just not as much.
+guide:We all have that friend who everytime they see a tour group says, "Hey, I should go join that tour group." If that's you, take some time today to think about your life choices.
+Dames:Go to this resturant and get some chicken and waffels. Now. 
+Extra:If you are wondering why this is a Dukle word, you're the extra one.
+Block:What Mark Williams does to every shot.
+Lines:There is only one thing that no Duke student can resist- standing in a line.
+Retta:She was on Parks and Rec! Donna Meagle! Treat. Yo. Self. We love our Duke alums.
+Table:Are you a Duke student if you haven't heckled someone on BC Plaza?
+Bella:Get yourself a nice coffee and sit on the bridge outside.
+Randy:What "cool" "people" call Randolph. Shout out to their bench though. It's a nice dorm bench...
+Srats:Girls can be frat boys too.
+Swift:The floors may be sinking, but our love for Swift Apartments is not.
+Geeks:Computer Science majors. 
+Alums:Donation opportunities.
+Bulls:We live in the beautiful bull city. Named after Bull Durham Tobacco.
+Desks:Where losers spend their time. Couldn't be me.
+Kenan:Is it morally justified for me to take someone's mobile order if it's been sitting there for over an hour? Ask someone ata Kenan to find out!
+Choir:Hi Chorale people ;)
+Kilgo:The perfect housing option for those of us who can barely be bothered to leave our dorm to get food on a quiet day.
+Music:Sometimes its just nice to go out with some friends to a Duke musical performance ;)
+Court:Duke students think they are the best, both on and off the court.
+Preps:I do not own a single vineyard vines shirt.
+Brain:65% of Americans believe they are above average intelligence. 
+Psych:The 101 class that every humanities major takes for their NS requirement. Ooooo spooky biology! Chemistry! Physics! EEEEEEEEKK!!
+Kratt:Haha! You thought it was Pratt didn't you. You obviously aren't familiar with Duke alum Martin Kratt, creator of hit PBS Kids shows with fellow Duke star: Zoboomafoo!!!
+Kyrie:If you don't know who this is, you should go to a basketball game sometime. They are fun.
+Climb:What people do to the chapel who don't have the self preservation gene. 
+Stair:Why we can't have nice things. Like bicycles.
+devil:Just a fun fact, the blue devils got their name from a nickname for a World War I French fighting unit. It was also a pretty controversial pick at the time.
+Vince:I met Presidnet Vincent Price in my pajamas. He has a "job" where he does something for the Duke? Hopefully $1,000,000 worth of something per year.
+Roach:Jeremy! Also the third roommate in every room in Bassett.
+Latin:Allegedly people study this dead language here. One of the rarest species at Duke, right behind Pratt stars who don't occassionally question their life choices.
+Nixon:Duke may only have one Presidential Alum, but we got the best!
+Fuqua:Profits! Margins! Supply! Demand! Business! Money!
+Clock:Do we not all dream of living inside the clock tower in Crowell? I know I do.
+Grade:What you should not attach your self worth to! You are valid no matter your GPA!
+Dunks:How to humiliate your basketball foe.
+Jeong:The only valid pre-med. Ken Jeong is living proof that the Hoof n' Horn to Haangover III pipeline exists. 
+Grads:What 94% of us will be in at least 4 years ;)
+Press:I think this is some basketball term. It probbaly involves some sweaty guys pushing up on each other. Idk.
+Dorms:Duke students' home away from home- their tent.
+Notes:What competent students take during class. And not just for the first few weeks, like for the whole time. Crazy I know. I guess that's how the other half lives though.
+Coach:K. ;((((((((((((( But good luck to Jon Scheyer.
+Mango:Listen, I don't go to the gym, but allegedly there is a place there called Red Mango.
+Pitch:Sometimes we all need food at 3am. It's only natural.
+Bench:Objects on campus meant to be sat on, stolen, and burned.
+Hoops:The objective of a game of basketball is to pass a spherical object through your "hoop".
+Draft:You only need one of these before you turn in your big paper that's worth 110% of your grade.
+Store:Everyone's favorite place to put 4 letters on a t-shirt and then charge $60 for it.
+Grant:Hill.
+Brown:Do people actually live in Brown? I don't believe so. Name literally one person who lives in Brown. I'll wait.
+Bates:Jones. He's from Charlotte. That's pretty cool.
+Focus:Where you may meet your second spouse.
+giles:Some people say the mold was put there by the ghosts of the Giles sisters who they say still haunt the building to this day.
+Moore: Wendell.
+Apple:Tim Apple... I mean Tim Cook! Apple CEO who will definitely give me a job just from seeing how beautiful the Dukle is.
+Sakai:She is a wild and untamed beast. Beautiful in her ferocity and unbridaled force. The website hurts my eyes.
+Stinf:Made to get out of class when you're sick, used to get out of class when you're sad.
+Crazy:Listen, I get it. You're supposed to spell it C-R-A-Z-I-E or whatever, but cut me a break. There are only so many 5 letter Duke words.
+Water:The defining characteristic of my freshman year was losing all of my water bottles halfway through the year and carrying around a cup that I would fill up with water whenever I got to where I was going. Those were the days.
+Gates:Melinda. YOu know, like the French Science Building? Microsoft? When I become rich with my Duke CS degree, I will name 
+Trees:Hey girl, are you Duke forest, cause' you're tall, beautiful, and kinda green like Shrek.
+Greek:Listen all us Trinity Triangles need to meet our FL requirement, why not do it with a language you could go to the beach in the Med with when you are studying abroad?
+Teach:What professors unenthusiastically do to ensure their tenure. 
+Deans:Does anyone know what they do? Let people take an extra class? Idk.
+March:Madness.
+Tower:Clock tower, Bell tower, Towerview, Tower tower.
+Bells:Those things that make it impossible to speak to anyone for like 15 minutes whenever they decide to go off.
+Cheer:You will get dirty looks if you don't do this in the student section.
+Allen:The home of classics baddies and President Price. If there is a zombie apocalypse at Duke, I'm going there for the priority power.
+Pratt:Let's all have a breif moment of silence for all of those who are no longer Pratt stars. You are still valid.
+OnTap:Tip tip tap dance. 
+Stone:I heard that Duke like aged the stones when it was building the campus so that it would look older than it is. Like it's as old as the ivies.
+Keels:Trevor.
+Elmos:I've never been to this resturant, but I've heard it's good.
+Guard:Like a point-guard. What I'll be after I audition for the basketball team.
+Dukle:Love you too babes ❤️
+Price:I met Presidnet Vincent Price in my pajamas. He has a "job" where he does something for the Duke? Hopefully $1,000,000 worth of something per year.
+Baker:Joey. Just another Political "Science" major. 
+Steps:Why the scooters don't work as well as they could.
+Paulo:The first person in the NBA with the name Paulo.
+Buses:What does the C in C1 stand for??? Carpool? Climb aboard freshmen? Can you please put on a shirt sir, this is a public location, and I'm not going to ask again?
+Stars:All of my Pratt peeps! You are stars!
+Tents:What rich parents pay lots of money for their precious children to live inside.
+Towel:That thing hanging on your roommates side of the room that you have not seen them wash all year... A sad premed bio major could find some interesting stuff on there.
+Tutor:What I need. Please text 704-941-2901 if you've taken Math 212.
+Edens:And God created the garden of Edens. And it was good. Then he created the stink bug. And it was not good.
+Dance:For some reason this department has the single most secure building on campus. Like I have gotten pretty close to whatever freaky stuff they got in the Physics building but I cannot get in that stupid little building on East.
+Zweli:It's kind of out of the way in the Div School. I think I've had it like once.
+Class:That thing between the weekends.
+Panda:Do you ever find yourself looking at yourself in the Panda Express window?
+Tours:We all have that friend who everytime they see a tour group says, "Hey, I should go join that tour group." If that's you, take some time today to think about your life choices. (And yes this is the same blurb as guide. Deal with it.)
+Elect:What the 17 people who actually fill out the form do to the students at DSG.
+Point:What we score more of against other teams.
+Lemur:The most valuable members of the Duke community. RIP in peace Zoboomafoo. Watch out Madagascar, soon we will have the #1 largest population of lemurs in the world.
+Sazon:The FACTUALLY best dining location at Duke. If you think anything is better than one of those bowls with the spicy aioli sauce, you are wrong and a bad person. Sorry not sorry.
+Bryan:Bryan. Bryan Center.
+monut:I am generally deeply disappointed in most of the donut locations in North Carolina, but Monuts are pretty good.
+Union:There are so many unions. Student union, bella union, labor union. Pick whichever you like the best.
+Brody:Grody Brody.
+Paper:No I haven't started it yet. Yes it's due tomorrow. Do we have a problem?
+Frats:Boys can sorority squat too.
+Chops:JB's is truly bets when Daddy Duke pays for it on your Flunch.
+Party:What every Duke student skips in order to have a calm night studying and resting in their dorm room every Friday night.
+lilly:Well it's at least the best library on East Campus.
+Champ:5 times. 6 times after this season.
+Touch:Cause every time we touch, I get this feeling, and da da.. da da da... I reach for the sky!
+Water:The defining characteristic of my freshman year was losing all of my water bottles halfway through the year and carrying around a cup that I would fill up with water whenever I got to where I was going. Those were the days.
+Court:Duke students think they are the best, both on and off the court.
+Stars:All of my Pratt peeps! You are stars!
+Jeong:The only valid pre-med. Ken Jeong is living proof that the Hoof n' Horn to Haangover III pipeline exists.
+Keels:Trevor.
+Kenan:Is it morally justified for me to take someone's mobile order if it's been sitting there for over an hour? Ask someone ata Kenan to find out!
+Sakai:She is a wild and untamed beast. Beautiful in her ferocity and unbridaled force. The website hurts my eyes.
+Srats:Girls can be frat boys too.
+lilly:Well it's at least the best library on East Campus.
+Guard:Like a point-guard. What I'll be after I audition for the basketball team.
+Bella:Get yourself a nice coffee and sit on the bridge outside.
+Paulo:The first person in the NBA with the name Paulo.
+Chops:JB's is truly bets when Daddy Duke pays for it on your Flunch.
+Tents:What rich parents pay lots of money for their precious children to live inside.
+Tower:Clock tower, Bell tower, Towerview, Tower tower.
+Kilgo:The perfect housing option for those of us who can barely be bothered to leave our dorm to get food on a quiet day.
+abele:I don't know if I'm *abele* to make a joke about this one. Tee hee. We all love Abele Quad. The biggest bestest lawn that they replace the grass on every other week.
+Panda:Do you ever find yourself looking at yourself in the Panda Express window?
+Nerds:The label that half of Duke students consider themseles and that the other half fear they are.
+Moore: Wendell.
+devil:Just a fun fact, the blue devils got their name from a nickname for a World War I French fighting unit. It was also a pretty controversial pick at the time.
+Nixon:Duke may only have one Presidential Alum, but we got the best!
+guide:We all have that friend who everytime they see a tour group says, "Hey, I should go join that tour group." If that's you, take some time today to think about your life choices.
+Swift:The floors may be sinking, but our love for Swift Apartments is not.
+Crazy:Listen, I get it. You're supposed to spell it C-R-A-Z-I-E or whatever, but cut me a break. There are only so many 5 letter Duke words.
+Party:What every Duke student skips in order to have a calm night studying and resting in their dorm room every Friday night.
+Lunch:Lunch is the second most popular class of Duke students, right behind recess.
+Sleep:The least important of the three holy pillars of life at Duke- Sleep, Work, and Tenting.
+gross:Gross Hall may not be oldest chemistry building, but it is quite possibly... the... grossest. Do you get it? It's the name of the building. Idk I've only been there once and I got locked in a random hallway.
+Allen:The home of classics baddies and President Price. If there is a zombie apocalypse at Duke, I'm going there for the priority power.
+OnTap:Tip tip tap dance.
+Greek:Listen all us Trinity Triangles need to meet our FL requirement, why not do it with a language you could go to the beach in the Med with when you are studying abroad?
+Dukle:Love you too babes ❤️
+Roach:Jeremy! Also the third roommate in every room in Bassett.
+Pitch:Sometimes we all need food at 3am. It's only natural.
+Climb:What people do to the chapel who don't have the self preservation gene.
+Notes:What competent students take during class. And not just for the first few weeks, like for the whole time. Crazy I know. I guess that's how the other half lives though.
+Desks:Where losers spend their time. Couldn't be me.
+Point:What we score more of against other teams.
+Cheer:You will get dirty looks if you don't do this in the student section.
+Bells:Those things that make it impossible to speak to anyone for like 15 minutes whenever they decide to go off.
+Apple:Tim Apple... I mean Tim Cook! Apple CEO who will definitely give me a job just from seeing how beautiful the Dukle is.
+Choir:Hi Chorale people ;)
+Table:Are you a Duke student if you haven't heckled someone on BC Plaza?
+Forno:Il Forno, the least favorite of the Il Forno and Sazon children. We still love her, just not as much.
+Tours:We all have that friend who everytime they see a tour group says, "Hey, I should go join that tour group." If that's you, take some time today to think about your life choices. (And yes this is the same blurb as guide. Deal with it.)
+Steps:Why the scooters don't work as well as they could.
+Clock:Do we not all dream of living inside the clock tower in Crowell? I know I do.
+Paper:No I haven't started it yet. Yes it's due tomorrow. Do we have a problem?
+Teach:What professors unenthusiastically do to ensure their tenure.
+Draft:You only need one of these before you turn in your big paper that's worth 110% of your grade.
+Psych:The 101 class that every humanities major takes for their NS requirement. Ooooo spooky biology! Chemistry! Physics! EEEEEEEEKK!!
+Brody:Grody Brody.
+Champ:5 times. 6 times after this season.
+Mango:Listen, I don't go to the gym, but allegedly there is a place there called Red Mango.
+Board:Like the backboard. Of a basketball hoop. We love basketball!
+Geeks:Computer Science majors.
+Bates:Jones. He's from Charlotte. That's pretty cool.
+Coach:K. ;((((((((((((( But good luck to Jon Scheyer.
+Buses:What does the C in C1 stand for??? Carpool? Climb aboard freshmen? Can you please put on a shirt sir, this is a public location, and I'm not going to ask again?
+Dorms:Duke students' home away from home- their tent.
+Touch:Cause every time we touch, I get this feeling, and da da.. da da da... I reach for the sky!
+Deans:Does anyone know what they do? Let people take an extra class? Idk.
+Gates:Melinda. YOu know, like the French Science Building? Microsoft? When I become rich with my Duke CS degree, I will name
+Elect:What the 17 people who actually fill out the form do to the students at DSG.
+Dames:Go to this resturant and get some chicken and waffels. Now.
+Brown:Do people actually live in Brown? I don't believe so. Name literally one person who lives in Brown. I'll wait.
+Bryan:Bryan. Bryan Center.
+Dunks:How to humiliate your basketball foe.
+Grade:What you should not attach your self worth to! You are valid no matter your GPA!
+Focus:Where you may meet your second spouse.
+Books:Those things old people keep talking about.
+Frats:Boys can sorority squat too.
+Store:Everyone's favorite place to put 4 letters on a t-shirt and then charge $60 for it.
+Pratt:Let's all have a breif moment of silence for all of those who are no longer Pratt stars. You are still valid.
+Trees:Hey girl, are you Duke forest, cause' you're tall, beautiful, and kinda green like Shrek.
+Edens:And God created the garden of Edens. And it was good. Then he created the stink bug. And it was not good.
+Class:That thing between the weekends.
+Grant:Hill.
+Stinf:Made to get out of class when you're sick, used to get out of class when you're sad.
+Preps:I do not own a single vineyard vines shirt.
+Kyrie:If you don't know who this is, you should go to a basketball game sometime. They are fun.
+Stone:I heard that Duke like aged the stones when it was building the campus so that it would look older than it is. Like it's as old as the ivies.
+Baker:Joey. Just another Political "Science" major.
+Lemur:The most valuable members of the Duke community. RIP in peace Zoboomafoo. Watch out Madagascar, soon we will have the #1 largest population of lemurs in the world.
+Press:I think this is some basketball term. It probbaly involves some sweaty guys pushing up on each other. Idk.
+Kratt:Haha! You thought it was Pratt didn't you. You obviously aren't familiar with Duke alum Martin Kratt, creator of hit PBS Kids shows with fellow Duke star: Zoboomafoo!!!
+Alums:Donation opportunities.
+Elmos:I've never been to this resturant, but I've heard it's good.
+Fuqua:Profits! Margins! Supply! Demand! Business! Money!
+monut:I am generally deeply disappointed in most of the donut locations in North Carolina, but Monuts are pretty good.
+Grads:What 94% of us will be in at least 4 years ;)
+Lines:There is only one thing that no Duke student can resist- standing in a line.
+Zweli:It's kind of out of the way in the Div School. I think I've had it like once.
+Stair:Why we can't have nice things. Like bicycles.
+March:Madness.
+Hoops:The objective of a game of basketball is to pass a spherical object through your "hoop".
+Randy:What "cool" "people" call Randolph. Shout out to their bench though. It's a nice dorm bench...
+Earth:Shout out to all my Earth "Science" majors.
+Price:I met Presidnet Vincent Price in my pajamas. He has a "job" where he does something for the Duke? Hopefully $1,000,000 worth of something per year.
+Brain:65% of Americans believe they are above average intelligence.
+Union:There are so many unions. Student union, bella union, labor union. Pick whichever you like the best.
+Bench:Objects on campus meant to be sat on, stolen, and burned.
+Towel:That thing hanging on your roommates side of the room that you have not seen them wash all year... A sad premed bio major could find some interesting stuff on there.
+Tutor:What I need. Please text 704-941-2901 if you've taken Math 212.
+EBall:Pratt's annual attempt to keep engineers from dying alone.
+Extra:If you are wondering why this is a Dukle word, you're the extra one.
+Retta:She was on Parks and Rec! Donna Meagle! Treat. Yo. Self. We love our Duke alums.
+Music:Sometimes its just nice to go out with some friends to a Duke musical performance ;)
+Latin:Allegedly people study this dead language here. One of the rarest species at Duke, right behind Pratt stars who don't occassionally question their life choices.
+Block:What Mark Williams does to every shot.
+Dance:For some reason this department has the single most secure building on campus. Like I have gotten pretty close to whatever freaky stuff they got in the Physics building but I cannot get in that stupid little building on East.
+Bulls:We live in the beautiful bull city. Named after Bull Durham Tobacco.
+Vince:I met Presidnet Vincent Price in my pajamas. He has a "job" where he does something for the Duke? Hopefully $1,000,000 worth of something per year.
+giles:Some people say the mold was put there by the ghosts of the Giles sisters who they say still haunt the building to this day.
+Sazon:The FACTUALLY best dining location at Duke. If you think anything is better than one of those bowls with the spicy aioli sauce, you are wrong and a bad person. Sorry not sorry.
+Annex:If you're artsy fartsy, making a trek out to the Arts Annex would probbaly be worth it for you.
+Geeks:Computer Science majors.
+lilly:Well it's at least the best library on East Campus.
+Bryan:Bryan. Bryan Center.
+gross:Gross Hall may not be oldest chemistry building, but it is quite possibly... the... grossest. Do you get it? It's the name of the building. Idk I've only been there once and I got locked in a random hallway.
+Bulls:We live in the beautiful bull city. Named after Bull Durham Tobacco.
+Deans:Does anyone know what they do? Let people take an extra class? Idk.
+Stair:Why we can't have nice things. Like bicycles.
+Focus:Where you may meet your second spouse.
+Grads:What 94% of us will be in at least 4 years ;)
+Music:Sometimes its just nice to go out with some friends to a Duke musical performance ;)
+Touch:Cause every time we touch, I get this feeling, and da da.. da da da... I reach for the sky!
+Towel:That thing hanging on your roommates side of the room that you have not seen them wash all year... A sad premed bio major could find some interesting stuff on there.
+Zweli:It's kind of out of the way in the Div School. I think I've had it like once.
+Guard:Like a point-guard. What I'll be after I audition for the basketball team.
+Board:Like the backboard. Of a basketball hoop. We love basketball!
+Forno:Il Forno, the least favorite of the Il Forno and Sazon children. We still love her, just not as much.
+Clock:Do we not all dream of living inside the clock tower in Crowell? I know I do.
+Stars:All of my Pratt peeps! You are stars!
+Sleep:The least important of the three holy pillars of life at Duke- Sleep, Work, and Tenting.
+guide:We all have that friend who everytime they see a tour group says, "Hey, I should go join that tour group." If that's you, take some time today to think about your life choices.
+OnTap:Tip tip tap dance.
+Alums:Donation opportunities.
+Crazy:Listen, I get it. You're supposed to spell it C-R-A-Z-I-E or whatever, but cut me a break. There are only so many 5 letter Duke words.
+Nixon:Duke may only have one Presidential Alum, but we got the best!
+Tours:We all have that friend who everytime they see a tour group says, "Hey, I should go join that tour group." If that's you, take some time today to think about your life choices. (And yes this is the same blurb as guide. Deal with it.)
+Bella:Get yourself a nice coffee and sit on the bridge outside.
+Party:What every Duke student skips in order to have a calm night studying and resting in their dorm room every Friday night.
+Court:Duke students think they are the best, both on and off the court.
+Bench:Objects on campus meant to be sat on, stolen, and burned.
+Teach:What professors unenthusiastically do to ensure their tenure.
+Pratt:Let's all have a breif moment of silence for all of those who are no longer Pratt stars. You are still valid.
+Retta:She was on Parks and Rec! Donna Meagle! Treat. Yo. Self. We love our Duke alums.
+Kenan:Is it morally justified for me to take someone's mobile order if it's been sitting there for over an hour? Ask someone ata Kenan to find out!
+Books:Those things old people keep talking about.
+Tutor:What I need. Please text 704-941-2901 if you've taken Math 212.
+Swift:The floors may be sinking, but our love for Swift Apartments is not.
+Psych:The 101 class that every humanities major takes for their NS requirement. Ooooo spooky biology! Chemistry! Physics! EEEEEEEEKK!!
+Pitch:Sometimes we all need food at 3am. It's only natural.
+Bells:Those things that make it impossible to speak to anyone for like 15 minutes whenever they decide to go off.
+Allen:The home of classics baddies and President Price. If there is a zombie apocalypse at Duke, I'm going there for the priority power.
+Randy:What "cool" "people" call Randolph. Shout out to their bench though. It's a nice dorm bench...
+Dukle:Love you too babes ❤️
+Draft:You only need one of these before you turn in your big paper that's worth 110% of your grade.
+Mango:Listen, I don't go to the gym, but allegedly there is a place there called Red Mango.
+Coach:K. ;((((((((((((( But good luck to Jon Scheyer.
+Srats:Girls can be frat boys too.
+monut:I am generally deeply disappointed in most of the donut locations in North Carolina, but Monuts are pretty good.
+Chops:JB's is truly bets when Daddy Duke pays for it on your Flunch.
+Block:What Mark Williams does to every shot.
+Kyrie:If you don't know who this is, you should go to a basketball game sometime. They are fun.
+EBall:Pratt's annual attempt to keep engineers from dying alone.
+Stinf:Made to get out of class when you're sick, used to get out of class when you're sad.
+Union:There are so many unions. Student union, bella union, labor union. Pick whichever you like the best.
+Extra:If you are wondering why this is a Dukle word, you're the extra one.
+Dunks:How to humiliate your basketball foe.
+Notes:What competent students take during class. And not just for the first few weeks, like for the whole time. Crazy I know. I guess that's how the other half lives though.
+Water:The defining characteristic of my freshman year was losing all of my water bottles halfway through the year and carrying around a cup that I would fill up with water whenever I got to where I was going. Those were the days.
+Steps:Why the scooters don't work as well as they could.
+devil:Just a fun fact, the blue devils got their name from a nickname for a World War I French fighting unit. It was also a pretty controversial pick at the time.
+Paper:No I haven't started it yet. Yes it's due tomorrow. Do we have a problem?
+Elmos:I've never been to this resturant, but I've heard it's good.
+Tents:What rich parents pay lots of money for their precious children to live inside.
+Greek:Listen all us Trinity Triangles need to meet our FL requirement, why not do it with a language you could go to the beach in the Med with when you are studying abroad?
+Dorms:Duke students' home away from home- their tent.
+Grade:What you should not attach your self worth to! You are valid no matter your GPA!
+Frats:Boys can sorority squat too.
+Class:That thing between the weekends.
+Lines:There is only one thing that no Duke student can resist- standing in a line.
+Annex:If you're artsy fartsy, making a trek out to the Arts Annex would probbaly be worth it for you.
+Moore: Wendell.
+Brody:Grody Brody.
+March:Madness.
+Kratt:Haha! You thought it was Pratt didn't you. You obviously aren't familiar with Duke alum Martin Kratt, creator of hit PBS Kids shows with fellow Duke star: Zoboomafoo!!!
+Dames:Go to this resturant and get some chicken and waffels. Now.
+Sakai:She is a wild and untamed beast. Beautiful in her ferocity and unbridaled force. The website hurts my eyes.
+Dance:For some reason this department has the single most secure building on campus. Like I have gotten pretty close to whatever freaky stuff they got in the Physics building but I cannot get in that stupid little building on East.
+Paulo:The first person in the NBA with the name Paulo.
+Baker:Joey. Just another Political "Science" major.
+Elect:What the 17 people who actually fill out the form do to the students at DSG.
+Lunch:Lunch is the second most popular class of Duke students, right behind recess.
+abele:I don't know if I'm *abele* to make a joke about this one. Tee hee. We all love Abele Quad. The biggest bestest lawn that they replace the grass on every other week.
+Champ:5 times. 6 times after this season.
+Cheer:You will get dirty looks if you don't do this in the student section.
+Price:I met Presidnet Vincent Price in my pajamas. He has a "job" where he does something for the Duke? Hopefully $1,000,000 worth of something per year.
+Vince:I met Presidnet Vincent Price in my pajamas. He has a "job" where he does something for the Duke? Hopefully $1,000,000 worth of something per year.
+Latin:Allegedly people study this dead language here. One of the rarest species at Duke, right behind Pratt stars who don't occassionally question their life choices.
+Gates:Melinda. YOu know, like the French Science Building? Microsoft? When I become rich with my Duke CS degree, I will name
+Trees:Hey girl, are you Duke forest, cause' you're tall, beautiful, and kinda green like Shrek.
+Keels:Trevor.
+Earth:Shout out to all my Earth "Science" majors.
+Kilgo:The perfect housing option for those of us who can barely be bothered to leave our dorm to get food on a quiet day.
+Preps:I do not own a single vineyard vines shirt.
+Desks:Where losers spend their time. Couldn't be me.
+Hoops:The objective of a game of basketball is to pass a spherical object through your "hoop".
+Grant:Hill.
+Brown:Do people actually live in Brown? I don't believe so. Name literally one person who lives in Brown. I'll wait.
+Brain:65% of Americans believe they are above average intelligence.
+Nerds:The label that half of Duke students consider themseles and that the other half fear they are.
+giles:Some people say the mold was put there by the ghosts of the Giles sisters who they say still haunt the building to this day.
+Buses:What does the C in C1 stand for??? Carpool? Climb aboard freshmen? Can you please put on a shirt sir, this is a public location, and I'm not going to ask again?
+Press:I think this is some basketball term. It probbaly involves some sweaty guys pushing up on each other. Idk.
+Edens:And God created the garden of Edens. And it was good. Then he created the stink bug. And it was not good.
+Climb:What people do to the chapel who don't have the self preservation gene.
+Jeong:The only valid pre-med. Ken Jeong is living proof that the Hoof n' Horn to Haangover III pipeline exists.
+Fuqua:Profits! Margins! Supply! Demand! Business! Money!
+Panda:Do you ever find yourself looking at yourself in the Panda Express window?
+Tower:Clock tower, Bell tower, Towerview, Tower tower.
+Lemur:The most valuable members of the Duke community. RIP in peace Zoboomafoo. Watch out Madagascar, soon we will have the #1 largest population of lemurs in the world.
+Roach:Jeremy! Also the third roommate in every room in Bassett.
+Bates:Jones. He's from Charlotte. That's pretty cool.
+Stone:I heard that Duke like aged the stones when it was building the campus so that it would look older than it is. Like it's as old as the ivies.
+Sazon:The FACTUALLY best dining location at Duke. If you think anything is better than one of those bowls with the spicy aioli sauce, you are wrong and a bad person. Sorry not sorry.
+Choir:Hi Chorale people ;)
+Point:What we score more of against other teams.
+Table:Are you a Duke student if you haven't heckled someone on BC Plaza?
+Apple:Tim Apple... I mean Tim Cook! Apple CEO who will definitely give me a job just from seeing how beautiful the Dukle is.
+Store:Everyone's favorite place to put 4 letters on a t-shirt and then charge $60 for it.
+Coach:K. ;((((((((((((( But good luck to Jon Scheyer.
+Greek:Listen all us Trinity Triangles need to meet our FL requirement, why not do it with a language you could go to the beach in the Med with when you are studying abroad?
+Dorms:Duke students' home away from home- their tent.
+Gates:Melinda. YOu know, like the French Science Building? Microsoft? When I become rich with my Duke CS degree, I will name
+Roach:Jeremy! Also the third roommate in every room in Bassett.
+lilly:Well it's at least the best library on East Campus.
+Earth:Shout out to all my Earth "Science" majors.
+Pitch:Sometimes we all need food at 3am. It's only natural.
+Block:What Mark Williams does to every shot.
+Court:Duke students think they are the best, both on and off the court.
+Apple:Tim Apple... I mean Tim Cook! Apple CEO who will definitely give me a job just from seeing how beautiful the Dukle is.
+Lemur:The most valuable members of the Duke community. RIP in peace Zoboomafoo. Watch out Madagascar, soon we will have the #1 largest population of lemurs in the world.
+Alums:Donation opportunities.
+Dance:For some reason this department has the single most secure building on campus. Like I have gotten pretty close to whatever freaky stuff they got in the Physics building but I cannot get in that stupid little building on East.
+Preps:I do not own a single vineyard vines shirt.
+Books:Those things old people keep talking about.
+Tower:Clock tower, Bell tower, Towerview, Tower tower.
+Paper:No I haven't started it yet. Yes it's due tomorrow. Do we have a problem?
+Geeks:Computer Science majors.
+Fuqua:Profits! Margins! Supply! Demand! Business! Money!
+Clock:Do we not all dream of living inside the clock tower in Crowell? I know I do.
+Dukle:Love you too babes ❤️
+Trees:Hey girl, are you Duke forest, cause' you're tall, beautiful, and kinda green like Shrek.
+Choir:Hi Chorale people ;)
+Tents:What rich parents pay lots of money for their precious children to live inside.
+Kyrie:If you don't know who this is, you should go to a basketball game sometime. They are fun.
+Nerds:The label that half of Duke students consider themseles and that the other half fear they are.
+Zweli:It's kind of out of the way in the Div School. I think I've had it like once.
+Music:Sometimes its just nice to go out with some friends to a Duke musical performance ;)
+Pratt:Let's all have a breif moment of silence for all of those who are no longer Pratt stars. You are still valid.
+Press:I think this is some basketball term. It probbaly involves some sweaty guys pushing up on each other. Idk.
+Swift:The floors may be sinking, but our love for Swift Apartments is not.
+Edens:And God created the garden of Edens. And it was good. Then he created the stink bug. And it was not good.
+Cheer:You will get dirty looks if you don't do this in the student section.
+Psych:The 101 class that every humanities major takes for their NS requirement. Ooooo spooky biology! Chemistry! Physics! EEEEEEEEKK!!
+Steps:Why the scooters don't work as well as they could.
+Kratt:Haha! You thought it was Pratt didn't you. You obviously aren't familiar with Duke alum Martin Kratt, creator of hit PBS Kids shows with fellow Duke star: Zoboomafoo!!!
+Extra:If you are wondering why this is a Dukle word, you're the extra one.
+Allen:The home of classics baddies and President Price. If there is a zombie apocalypse at Duke, I'm going there for the priority power.
+gross:Gross Hall may not be oldest chemistry building, but it is quite possibly... the... grossest. Do you get it? It's the name of the building. Idk I've only been there once and I got locked in a random hallway.
+Champ:5 times. 6 times after this season.
+Union:There are so many unions. Student union, bella union, labor union. Pick whichever you like the best.
+Lines:There is only one thing that no Duke student can resist- standing in a line.
+Retta:She was on Parks and Rec! Donna Meagle! Treat. Yo. Self. We love our Duke alums.
+Hoops:The objective of a game of basketball is to pass a spherical object through your "hoop".
+Grads:What 94% of us will be in at least 4 years ;)
+Draft:You only need one of these before you turn in your big paper that's worth 110% of your grade.
+monut:I am generally deeply disappointed in most of the donut locations in North Carolina, but Monuts are pretty good.
+Buses:What does the C in C1 stand for??? Carpool? Climb aboard freshmen? Can you please put on a shirt sir, this is a public location, and I'm not going to ask again?
+Baker:Joey. Just another Political "Science" major.
+Bates:Jones. He's from Charlotte. That's pretty cool.
+Climb:What people do to the chapel who don't have the self preservation gene.
+Towel:That thing hanging on your roommates side of the room that you have not seen them wash all year... A sad premed bio major could find some interesting stuff on there.
+Brain:65% of Americans believe they are above average intelligence.
+Keels:Trevor.
+Bells:Those things that make it impossible to speak to anyone for like 15 minutes whenever they decide to go off.
+Stars:All of my Pratt peeps! You are stars!
+Point:What we score more of against other teams.
+Dames:Go to this resturant and get some chicken and waffels. Now.
+Price:I met Presidnet Vincent Price in my pajamas. He has a "job" where he does something for the Duke? Hopefully $1,000,000 worth of something per year.
+Dunks:How to humiliate your basketball foe.
+giles:Some people say the mold was put there by the ghosts of the Giles sisters who they say still haunt the building to this day.
+Latin:Allegedly people study this dead language here. One of the rarest species at Duke, right behind Pratt stars who don't occassionally question their life choices.
+Randy:What "cool" "people" call Randolph. Shout out to their bench though. It's a nice dorm bench...
+Lunch:Lunch is the second most popular class of Duke students, right behind recess.
+Moore: Wendell.
+devil:Just a fun fact, the blue devils got their name from a nickname for a World War I French fighting unit. It was also a pretty controversial pick at the time.
+Table:Are you a Duke student if you haven't heckled someone on BC Plaza?
+Board:Like the backboard. Of a basketball hoop. We love basketball!
+Stone:I heard that Duke like aged the stones when it was building the campus so that it would look older than it is. Like it's as old as the ivies.
+Crazy:Listen, I get it. You're supposed to spell it C-R-A-Z-I-E or whatever, but cut me a break. There are only so many 5 letter Duke words.
+Party:What every Duke student skips in order to have a calm night studying and resting in their dorm room every Friday night.
+Focus:Where you may meet your second spouse.
+Store:Everyone's favorite place to put 4 letters on a t-shirt and then charge $60 for it.
+guide:We all have that friend who everytime they see a tour group says, "Hey, I should go join that tour group." If that's you, take some time today to think about your life choices.
+Forno:Il Forno, the least favorite of the Il Forno and Sazon children. We still love her, just not as much.
+Brody:Grody Brody.
+Bella:Get yourself a nice coffee and sit on the bridge outside.
+Bulls:We live in the beautiful bull city. Named after Bull Durham Tobacco.
+Kenan:Is it morally justified for me to take someone's mobile order if it's been sitting there for over an hour? Ask someone ata Kenan to find out!
+Elect:What the 17 people who actually fill out the form do to the students at DSG.
+Touch:Cause every time we touch, I get this feeling, and da da.. da da da... I reach for the sky!
+Notes:What competent students take during class. And not just for the first few weeks, like for the whole time. Crazy I know. I guess that's how the other half lives though.
+EBall:Pratt's annual attempt to keep engineers from dying alone.
+Kilgo:The perfect housing option for those of us who can barely be bothered to leave our dorm to get food on a quiet day.
+Water:The defining characteristic of my freshman year was losing all of my water bottles halfway through the year and carrying around a cup that I would fill up with water whenever I got to where I was going. Those were the days.
+Sakai:She is a wild and untamed beast. Beautiful in her ferocity and unbridaled force. The website hurts my eyes.
+Guard:Like a point-guard. What I'll be after I audition for the basketball team.
+Paulo:The first person in the NBA with the name Paulo.
+OnTap:Tip tip tap dance.
+Nixon:Duke may only have one Presidential Alum, but we got the best!
+Deans:Does anyone know what they do? Let people take an extra class? Idk.
+Bryan:Bryan. Bryan Center.
+Mango:Listen, I don't go to the gym, but allegedly there is a place there called Red Mango.
+Srats:Girls can be frat boys too.
+Grant:Hill.
+Chops:JB's is truly bets when Daddy Duke pays for it on your Flunch.
+Frats:Boys can sorority squat too.
+Jeong:The only valid pre-med. Ken Jeong is living proof that the Hoof n' Horn to Haangover III pipeline exists.
+Elmos:I've never been to this resturant, but I've heard it's good.
+Stinf:Made to get out of class when you're sick, used to get out of class when you're sad.
+Teach:What professors unenthusiastically do to ensure their tenure.
+abele:I don't know if I'm *abele* to make a joke about this one. Tee hee. We all love Abele Quad. The biggest bestest lawn that they replace the grass on every other week.
+Bench:Objects on campus meant to be sat on, stolen, and burned.
+Grade:What you should not attach your self worth to! You are valid no matter your GPA!
+Stair:Why we can't have nice things. Like bicycles.
+Desks:Where losers spend their time. Couldn't be me.
+Tutor:What I need. Please text 704-941-2901 if you've taken Math 212.
+Sleep:The least important of the three holy pillars of life at Duke- Sleep, Work, and Tenting.
+Class:That thing between the weekends.
+Panda:Do you ever find yourself looking at yourself in the Panda Express window?
+Annex:If you're artsy fartsy, making a trek out to the Arts Annex would probbaly be worth it for you.
+Sazon:The FACTUALLY best dining location at Duke. If you think anything is better than one of those bowls with the spicy aioli sauce, you are wrong and a bad person. Sorry not sorry.
+March:Madness.
+Brown:Do people actually live in Brown? I don't believe so. Name literally one person who lives in Brown. I'll wait.
+Tours:We all have that friend who everytime they see a tour group says, "Hey, I should go join that tour group." If that's you, take some time today to think about your life choices. (And yes this is the same blurb as guide. Deal with it.)
+Vince:I met Presidnet Vincent Price in my pajamas. He has a "job" where he does something for the Duke? Hopefully $1,000,000 worth of something per year.
