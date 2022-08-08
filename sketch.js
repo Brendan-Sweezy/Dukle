@@ -1,4 +1,5 @@
 //Key 459c4dd0-0719-45be-afdf-6e4a10e13b11
+//<img src="assets/help.png" alt="helpMenu" id="helpImage">
 
 //API URLs
 var timeURL = "https://worldtimeapi.org/api/timezone/America/New_York"; 
