@@ -187,7 +187,7 @@
         outline-width: 5px;
         padding: 10pt;
         max-width: 400px;
-        max-height: 600px;
+        max-height: 400px;
         width: 90vw;
         height: 90vw;
         z-index: 10;
@@ -208,7 +208,7 @@
         font-size: 25pt;
         color: rgb(0, 48, 135);
         position: relative;
-        top: -27%;
+        top: -10%;
       }
 
       #description {
@@ -226,7 +226,7 @@
         font-size: 15pt;
         color: rgb(0, 48, 135);
         position: relative;
-        top: -30%;
+        top: -15%;
       }
 
       #timeUntil {
@@ -255,14 +255,14 @@
         align-items: center;
         flex-grow: 0;
         overflow: hidden;
-        padding-top: 3vh;
+        padding-top: 4vh;
       }
 
       #gameBoard {
         display: grid;
         grid-template-columns: repeat(5, 1fr);
-        grid-gap: 5px;
-        padding: 10px;
+        grid-gap: 0.5vh;
+        padding: 1vh;
         box-sizing: border-box;
       }
 
@@ -500,7 +500,7 @@
     </div>
 
     <div id="helpMenu">
-      <img src="assets/help.png" alt="helpMenu" id="helpImage">
+      
       <button class="menuButton2" id="menuButton4">X</button>
       <p id="answer2">Help</p>
       <p id="description2">You have 6 tries to guess the Dukle.<br><br>The Dukle will be a word or name related to Duke.<br><br>After each guess the color of the tiles will indicate whether your guess was correct. Grey letters are not in the word, dark blue letters are correct, and light blue letters are in the word but in the wrong place.</p>
