@@ -172,8 +172,10 @@
         outline-style: ridge;
         outline-width: 5px;
         padding: 10pt;
-        width: 400px;
-        height: 400px;
+        max-width: 400px;
+        max-height: 400px;
+        width: 90vw;
+        height: 90vw;
         z-index: 10;
       }
 
@@ -184,8 +186,10 @@
         outline-style: ridge;
         outline-width: 5px;
         padding: 10pt;
-        width: 400px;
-        height: 400px;
+        max-width: 400px;
+        max-height: 400px;
+        width: 90vw;
+        height: 90vw;
         z-index: 10;
       }
 
@@ -195,16 +199,16 @@
         font-size: 30pt;
         color: rgb(0, 48, 135);
         position: relative;
-        top: -40px;
+        top: -10%;
       }
 
       #answer2 {
         font-family: "Cormorant Garamond";
         font-weight: 300;
-        font-size: 30pt;
+        font-size: 25pt;
         color: rgb(0, 48, 135);
         position: relative;
-        top: -170px;
+        top: -41%;
       }
 
       #description {
@@ -213,7 +217,7 @@
         font-size: 15pt;
         color: rgb(0, 48, 135);
         position: relative;
-        top: -65px;
+        top: -12%;
       }
 
       #description2 {
@@ -222,7 +226,7 @@
         font-size: 15pt;
         color: rgb(0, 48, 135);
         position: relative;
-        top: -200px;
+        top: -48%;
       }
 
       #timeUntil {
@@ -231,9 +235,9 @@
         font-size: 25pt;
         color: rgb(0, 48, 135);
         position: absolute;
-        bottom: -25px;
+        bottom: -6%;
         letter-spacing: 1px;
-        left: 20px;
+        left: 5%;
       }
 
       #nextDukle {
@@ -241,7 +245,7 @@
         font-weight: 100;
         font-size: 15pt;
         position: absolute;
-        bottom: 22px;
+        bottom: 7%;
         color: rgb(0, 48, 135);
       }
 
@@ -251,7 +255,7 @@
         align-items: center;
         flex-grow: 0;
         overflow: hidden;
-        padding-top: 7vh;
+        padding-top: 5vh;
       }
 
       #gameBoard {
@@ -278,14 +282,14 @@
       #keyboardContainer {
         
         height: 200px;
-        padding-top: 9vh;
+        padding-top: 7vh;
         padding-bottom: 0;
       }
 
       .keyboardRow {
         display: flex;
         justify-content: center;
-        width: 70%;
+        width: 90%;
         max-width: 500px;
         margin: 0 auto 8px;
         touch-action: manipulation;
@@ -297,7 +301,7 @@
         border: 0;
         padding: 0;
         max-height: 58px;
-        height: 5vh;
+        height: 6vh;
         cursor: pointer;
         background-color: rgb(130, 130, 130);
         color: rgb(215, 218, 220);
@@ -332,8 +336,8 @@
         border-radius: 4px;
         user-select: none;
         position: absolute;
-        right: 6px;
-        bottom: 10px;
+        right: 1%;
+        bottom: 2%;
       }
 
       #kill {
@@ -353,11 +357,11 @@
       }
 
       #menuButton1 {
-        right: 15vh;
+        right: 10vh;
         top: 2vh;
       }
       #menuButton2 {
-        right: 6vh;
+        right: 3vh;
         top: 2vh;
       }
       #menuButton3 {
@@ -372,10 +376,24 @@
 
       .menuButton {
         font-family: "Cormorant Garamond Bold";
-        font-size: 4.35vh;
+        font-size: 3.7vh;
         color: rgb(0, 48, 135);
-        width: 6vh;
-        height: 6vh;
+        width: 5vh;
+        height: 5vh;
+        
+        border-radius: 50%;
+        background-color: white;
+        border-color: rgb(0, 48, 135);
+        position: absolute;
+      }
+
+      .menuButton2 {
+        font-family: "Cormorant Garamond Bold";
+        font-size: 20pt;
+        color: rgb(0, 48, 135);
+        width: 40px;
+        height: 40px;
+        
         border-radius: 50%;
         background-color: white;
         border-color: rgb(0, 48, 135);
@@ -386,8 +404,13 @@
         background-color: rgb(230, 230, 230);
       }
 
+      .menuButton2:hover {
+        background-color: rgb(230, 230, 230);
+      }
+
       #helpImage {
-        width: 300px;
+        max-width: 300px;
+        width: 90vw;
         position: relative;
         bottom: -280px;
         left: 50px;
@@ -473,12 +496,12 @@
       <p id="nextDukle">NEXT DUKLE</p>
       <button id="share">SHARE Ψ</button>
       <p id="kill">Copied to Clipboard</p>
-      <button class="menuButton" id="menuButton3">X</button>
+      <button class="menuButton2" id="menuButton3">X</button>
     </div>
 
     <div id="helpMenu">
       <img src="assets/help.png" alt="helpMenu" id="helpImage">
-      <button class="menuButton" id="menuButton4">X</button>
+      <button class="menuButton2" id="menuButton4">X</button>
       <p id="answer2">Help</p>
       <p id="description2">You have 6 tries to guess the Dukle.<br><br>The Dukle will be a word or name related to Duke.<br><br>After each guess the color of the tiles will indicate whether your guess was correct. Grey letters are not in the word, dark blue letters are correct, and light blue letters are in the word but in the wrong place.</p>
     </div>
