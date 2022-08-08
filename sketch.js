@@ -233,8 +233,7 @@ function updateKeyboardColors(guessData) {
       keyboard[i].style("background-color", "rgb(0, 48, 135)");
     } else if(yellowLetters.has(keyboard[i].html().toUpperCase())) {
       keyboard[i].style("background-color", "rgb(0, 120, 233)");
-    }
-    if(greyLetters.has(keyboard[i].html().toUpperCase())) {
+    } else if(greyLetters.has(keyboard[i].html().toUpperCase())) {
       keyboard[i].style("background-color", "rgb(70, 70, 70)");
     }
   }
